@@ -1,7 +1,8 @@
 # Copilot Studio でエージェントを作成する
 この演習では、Copilot Studio を使用して、架空の企業の経費ポリシーに関する従業員の質問に答えることができる簡単なエージェントを作成します。<br>
 <br>
-# エージェントを作成する
+
+## エージェントを作成する
 Copilot Studio を使用して新しいエージェントを作成します。<br>
 1. [https://copilotstudio.microsoft.com/](https://copilotstudio.microsoft.com/) に移動します。[Copilot Studio へようこそ!] というポップアップが表示された場合は、スキップします。
 2. Copilot Studio のホームページが表示されます。<br>

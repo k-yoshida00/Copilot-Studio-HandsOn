@@ -33,5 +33,5 @@
 <br>
 
 # 次のステップ
-[Copilot Studio でエージェントを作成する](1-agents-in-sharepoint.md)
+[Copilot Studio でエージェントを作成する](1-create-agent-chat.md)
 
