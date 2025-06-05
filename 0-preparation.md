@@ -26,7 +26,12 @@
 ## Microsoft Copilot Studio 試用版へサインアップする
 1. https://copilotstudio.microsoft.com に移動します。
 2. サインインを求められたら、メール アドレスとパスワードを入力し、サインインします。
-3. 国/リージョンを選択し、[無料試用版を開始する] を選択します。
+3. 国/リージョンを**United States**に選択し、[無料試用版を開始する] を選択します。<br>
+![image](image/00/image1.png)<br>
+> [!IMPORTANT]<br>
+> [演習2 Copilot Studio でエージェントを作成する (生成モード)](2-create-agent-generationmode.md)はプレビュー版の機能を利用するため、en-US環境でのみ動作します。<br>
+> 誤って他のリージョンを選択した場合は、講師に連絡してください。<br>
+
 4. [Copilot Studio へようこそ!] というポップアップで、[スキップ] を選択します。
 <br>
 <br>
