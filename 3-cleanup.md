@@ -9,6 +9,9 @@
 4. [チャット履歴を削除する] をクリックします。
 5. [削除] をクリックします。<br>
 ![image](image/03/image4.png)<br>
+<br>
+<br>
+<br>
 
 ## Copilot Studioから削除する
 1. [https://copilotstudio.microsoft.com/](https://copilotstudio.microsoft.com/) に移動します。
